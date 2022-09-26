@@ -1,3 +1,5 @@
+''' Write a python script to create variables to store your name, age, qualification, years
+of experience and print it.'''
 name="IRSHAD"
 age=22
 qual='BCA'
