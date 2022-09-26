@@ -1,0 +1,5 @@
+print("Enter l b and h ")
+l=int(input(""))
+b=int(input(""))
+h=int(input(""))
+print("Volume is",l*b*h)

@@ -1,0 +1,5 @@
+print("Enter P R and T ")
+p=int(input(""))
+r=int(input(""))
+t=int(input(""))
+print("S.I is ",p*r*t/100)
