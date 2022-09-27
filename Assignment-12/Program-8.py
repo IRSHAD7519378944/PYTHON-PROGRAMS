@@ -1,9 +1,0 @@
-n=int(input("E#nter value of N "))
-a=-1
-b=1
-while n!=0:
-    c=a+b
-    print(c,end=' ')
-    a=b
-    b=c
-    n-=1
